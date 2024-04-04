@@ -1,0 +1,3 @@
+/home/cangyi/桌面/pointcloud/graduation_project/src/build/CMakeFiles/main.dir
+/home/cangyi/桌面/pointcloud/graduation_project/src/build/CMakeFiles/edit_cache.dir
+/home/cangyi/桌面/pointcloud/graduation_project/src/build/CMakeFiles/rebuild_cache.dir
